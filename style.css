@@ -1,3 +1,6 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Protest+Strike&display=swap')
+</style>
 :root {
     --cor-de-fundo: #d9d9d9;
     --purple: #AE4290;
@@ -5,3 +8,9 @@
     --BOTAO-ATIVO: #8a598a;
     --BOTAO-INATIVO: rgba(51, 4, 53, 0.5);
     --texto-fundo: rgba(94, 62, 99, 0.753);
+}
+    body{
+        background-color: blueviolet(cor de fundo);
+        color:var(--purple):
+        font
+    }
