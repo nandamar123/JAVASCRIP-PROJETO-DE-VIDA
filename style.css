@@ -1,16 +1,21 @@
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Protest+Strike&display=swap')
+@import url('https://fonts.googleapis.com/css2?family-Chakra+Petch:w ght@400:700&display=swap')
 </style>
 :root {
-    --cor-de-fundo: #d9d9d9;
-    --purple: #AE4290;
-    --branco: #FFFFFF;
-    --BOTAO-ATIVO: #8a598a;
-    --BOTAO-INATIVO: rgba(51, 4, 53, 0.5);
-    --texto-fundo: rgba(94, 62, 99, 0.753);
+--cor-de-fundo: #1E1E1E;
+--verde: #6FFF57;
+--branco: #FFFFFF;
+--botao-ativo: #3A375E;
+--botao-inativo: rgba(58, 55, 94, 0.5);
+--texto-fundo: rgba(58, 55, 94, 0.3);
 }
-    body{
-        background-color: blueviolet(cor de fundo);
-        color:var(--purple):
-        font
-    }
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: 'Chakra Petch', sans-serif;
+}
+ :root {--cor-base#ff6347;
+}
+:ROOT {--COR DE FUNDO: #CCCCCC;
+}
