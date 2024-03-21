@@ -1,4 +1,4 @@
-<script src="main.jss"></scrpt>
+<script src="main.jss"></script>
 const botoes = document.querySelectorAll(".botao");
 
 for(let i=0;i <botoes.length;i++){
